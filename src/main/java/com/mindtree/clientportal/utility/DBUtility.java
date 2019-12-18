@@ -8,7 +8,7 @@ import com.mindtree.clientportal.exception.DaoException;
 
 public class DBUtility {
 	
-	private static final String URL="jdbc:mysql://localhost:3306/test";
+	private static final String URL="jdbc:mysql://localhost:3306/kalingadept";
 	private static final String USER_NAME="root";
 	private static final String PASSWORD="Welcome123";
 	private static Connection con;
